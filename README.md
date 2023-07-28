@@ -2,7 +2,7 @@
 
 <h1>KNIGHTHOOD</h1>
 
-<img src="BUILDE DEMOV3/imagemdojogo.png" alt="Imagem do Jogo">
+<img src="BUILDE DEMOV3\imagemdojogo.png" alt="Imagem do Jogo">
 
 <h2>Descrição</h2>
 
